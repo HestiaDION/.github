@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">O Héstia é um aplicativo prático que cnecta universitários em busca de moradias próximas às faculdades com pessoas interessadas em alugar suas casas. Com opções compartilhadas, facilita a redução de custos e a comunicação entre ambos os públicos.<br><br>Desenvolvido pela DION (Desenvolvimento de Inovações para Oportunidades e Negócios), o aplicativo nasceu de um projeto interdisciplinar escolar, que reuniu diversas áreas do conhecimento para criar uma solução inovadora. Todos os repositórios utilizados no desenvolvimento do Héstia estão disponíveis na organização DION, e o aplicativo já está disponível em sua primeira versão para o sistema  operacional Android.</p>
+<p align="center">O Héstia é um aplicativo prático que conecta universitários em busca de moradias próximas às faculdades com pessoas interessadas em alugar suas casas. Com opções compartilhadas, facilita a redução de custos e a comunicação entre ambos os públicos.<br><br>Desenvolvido pela DION (Desenvolvimento de Inovações para Oportunidades e Negócios), o aplicativo nasceu de um projeto interdisciplinar escolar, que reuniu diversas áreas do conhecimento para criar uma solução inovadora. Todos os repositórios utilizados no desenvolvimento do Héstia estão disponíveis na organização DION, e o aplicativo já está disponível em sua primeira versão para o sistema  operacional Android.</p>
 
 ###
 
